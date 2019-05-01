@@ -1,0 +1,6 @@
+1|Moscow|South View Lea|Chester Road|9
+2|Moscow|Northiam|Chestnut Grove|7
+3|Moscow|Northiam|Albert Street|5
+4|Kazan|Central Beach|Essex Road|6
+5|Kazan|Lon Wynne|Regent Street|5
+6|Kazan|Lon Wynne|Grosvenor Street|3

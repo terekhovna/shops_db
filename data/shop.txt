@@ -1,0 +1,6 @@
+1|1|Broken Mask|29579.325
+2|6|Curly Painting|33843.275
+3|2|Colorful Ship|36778.925
+4|3|Small Crate|40789.000
+5|4|Popular Anvil Tavern|39187.575
+6|5|Hairy Timer Patisserie|32343.300

@@ -1,0 +1,9 @@
+1|milka milk|food|1.300
+2|apple|food|0.200
+3|bread|food|0.500
+4|meat|food|2.100
+5|banana|food|0.700
+6|toothpaste|perfumery|0.100
+7|paper napkins|perfumery|0.200
+8|garbage bags|perfumery|0.300
+9|cologne|perfumery|0.800
